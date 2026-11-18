@@ -1,8 +1,8 @@
 class Aq < Formula
   desc "Local queue and device lender for parallel AI agent sessions on one Mac"
   homepage "https://github.com/xiatiandeairen/agent-quay"
-  url "https://github.com/xiatiandeairen/agent-quay/releases/download/v0.2.0/aq-0.2.0-macos.tar.gz"
-  sha256 "c7de589d30ca5101ca049a8e2c6d23d981c888ffd3133a95b4c412f3cc6bffb2"
+  url "https://github.com/xiatiandeairen/agent-quay/releases/download/v0.3.0/aq-0.3.0-macos.tar.gz"
+  sha256 "7f48ed7802d0d9a0d3a6d13d6b5c568878f79535193fc28e7470d354b151bc61"
   license any_of: ["MIT", "Apache-2.0"]
 
   depends_on :macos
